@@ -1,5 +1,5 @@
 
-package ifelseconditions;
+
 import java.util.Scanner;
 
 public class Checkinggivennumberis5didgitnumberornot {
